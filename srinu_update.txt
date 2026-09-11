@@ -1,0 +1,38 @@
+-----11-09-26----
+Daily Updates: Web Application & Django Development
+
+*Django is a python web framework used to build web applications quickly and securely.
+
+*Django maily follows MVT - Model, View, template
+
+                 Django Application
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+       Model          View         Template
+          │             │             │
+          ↓             ↓             ↓
+      Database      Business       HTML/CSS
+                     Logic
+
+*In this application performed backend we using view Business Logic(like python functions), Front end Template(HTML/CSS) and databases
+ are mainly performed CRUD operations c(Create), R(Read), U(Update), D(Delete).
+
+                 Django Web Application
+                          |
+                          ↓
+                    students/urls.py
+                          |
+             ┌────────────┴────────────┐
+             ↓                         ↓
+          views.py                  HTML
+             |
+             ↓
+          models.py
+             |
+             ↓
+          Database
+
+
+*Mainly API (Application Programming Interface) allows two applications to communicate with each other.
+
