@@ -1,0 +1,12 @@
+----11-09-2026----
+Daily updates: Web Application using Django 
+
+Learned how to build web applications using the Django framework.
+Understood the basic structure of a Django web application, including the role of manage.py, views.py, URLs, models, templates, and settings.
+Learned how Django handles client requests and responses through views and URL routing.
+Learned about REST APIs and their purpose in communication between applications.
+Understood common HTTP methods used in REST APIs, such as GET, POST, PUT, and DELETE, and their respective purposes:
+GET – Retrieve data
+POST – Create new data
+PUT – Update existing data
+DELETE – Delete data
