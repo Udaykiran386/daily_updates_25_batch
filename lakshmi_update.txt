@@ -1,0 +1,4 @@
+----  11-09-2026----
+learned about web application and django framework.
+i have researched about rest APIS like GET,POST,PUT,PATCH,DELETE.
+i have learnt about git clone,GIT pull,add etc
