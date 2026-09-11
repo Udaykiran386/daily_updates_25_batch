@@ -1,0 +1,12 @@
+---- 11-09-2026 --------
+Daily Update: Web Application & Django Basics
+
+Learned the core concepts of web applications and how the Django framework is used for back-end development.
+
+Explored the MTV (Model-Template-View) architectural structure that Django uses to separate data, logic, and presentation layers.
+
+Practiced setting up a Django environment and installing the framework using the pip install django command.
+
+Discovered Django's built-in features, such as the automatic administrative portal and object-relational mapping (ORM) for easy database management.
+
+Gained hands-on understanding of how Django handles URL routing to connect user requests with server-side logic.
