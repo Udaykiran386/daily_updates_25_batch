@@ -1,8 +1,12 @@
 ---- 11-09-2026 --------
-Daily Update: Web Application & Django Development
-
+Daily Update: Web Application & Django Development.
 Learned how web applications work from the front-end to the back-end and database.
-
 Practiced setting up a Django project and understanding its MVT architecture, URL routing, views, templates, and models.
-
 Worked on creating a basic Django web application and configuring the required project files and database migrations.
+
+---- 12-09-2026 --------
+1. Cloned the Django project from Git and set up the Python virtual environment.
+
+2. Ran the Django migrations and created the required database tables.
+
+3. Added the required data and created a backup of the dataset for local development.
