@@ -1,0 +1,16 @@
+-----14-09-2026-------
+Today i cloned school management web application using git clone command 
+Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
+Learned how to use Git commands such as git clone and git pull.
+learned how to open vscode and use the terminal for running Django commands
+also add existing records data to application
+
+
+
+
+
+------13-09-2026---------
+I learn some basic concepts about Django and web applications
+i understand differance between frontend and backend
+i also got idea about frontend and backend work together
+APIS like GET,POST,PUT,PATCH,DELETE.
