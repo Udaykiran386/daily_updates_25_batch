@@ -1,5 +1,7 @@
-                                                     ------13-09-2026---------
+------13-09-2026---------
 I learn some basic concepts about Django and web applications
 i understand differance between frontend and backend
 i also got idea about frontend and backend work together
 APIS like GET,POST,PUT,PATCH,DELETE.
+-----14-09-2026-------
+Today i cloned school management web application using git clone command 
