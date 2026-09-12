@@ -1,3 +1,16 @@
+------12-09-2026-----
+Daily updates: Created a Django Project
+Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
+Learned how to use Git commands such as git clone and git pull.
+Used git clone to get the complete application code.
+Downloaded SQLite and used it to store the application data.
+Explored the application and understood some of its features and the commands required to start the application.
+Successfully ran the application and performed CRUD operations.And I Created students,teachers,workers.
+Created seed data and populated the application with sample data.
+
+
+
+
 ----11-09-2026----
 Daily updates: Web Application using Django 
 
