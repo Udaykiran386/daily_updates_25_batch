@@ -1,0 +1,4 @@
+                                                     ------13-09-2026---------
+I learn some basic concepts about Django and web applications
+i understand differance between frontend and backend
+i also got idea about frontend and backend work together
