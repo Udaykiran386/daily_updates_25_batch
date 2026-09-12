@@ -1,6 +1,15 @@
----- 11-09-2026 --------
-Daily Update: Web Application & Django Basics
+---- 12-09-2026 --------
+Daily Update :  Web Application & Django Set Up:
+Environment & Setup: Cloned the Django project repository from Git and set up the Python virtual environment.
 
+Database & Migrations: Executed Django database migrations to create the required tables in the database.
+
+Data Management: Handled data seeding/importing and exported dataset backups for local development.
+
+Skill Enhancement: Conducted a morning Python review session to prepare for mock interviews.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 11-09-2026 --------
+Daily Update: Web Application & Django Basics:
 Learned the core concepts of web applications and how the Django framework is used for back-end development.
 
 Explored the MTV (Model-Template-View) architectural structure that Django uses to separate data, logic, and presentation layers.
