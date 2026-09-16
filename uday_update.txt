@@ -1,3 +1,13 @@
+---- 16-09-2026 --------
+Daily Update :  PySpark Fundamentals & DataFrame Operations:
+DataFrame Manipulations: Practiced selecting specific columns (select()), adding/modifying columns (withColumn()), and renaming existing fields (withColumnRenamed()).
+
+Data Filtering & Aggregations: Filtered datasets using condition logic (where(), filter()) and performed relational grouping operations (groupBy()).
+
+Data Cleaning & Sorting: Dropped redundant columns and duplicate records (drop(), dropDuplicates()) and ordered data outputs (orderBy(), sort()).
+
+Core Concepts & Actions: Explored the underlying PySpark Column Class functionality and fetched action results using collect().
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 12-09-2026 --------
 Daily Update :  Web Application & Django Set Up:
 Environment & Setup: Cloned the Django project repository from Git and set up the Python virtual environment.
