@@ -1,3 +1,10 @@
+------16-09-2026-----
+Revised the concepts of web applications, including how a web application works, its basic architecture, request and response flow, and how Django handles requests.
+Revised Django concepts such as project structure, URL routing, views, models, ORM, and database interaction.
+Revised the membership operators in and not in in Python and practiced how they are used to check whether a value exists in a sequence such as a list, tuple, string, or set.
+
+
+
 ------12-09-2026-----
 Daily updates: Created a Django Project
 Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
