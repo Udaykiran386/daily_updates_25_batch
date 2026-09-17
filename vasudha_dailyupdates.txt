@@ -1,4 +1,4 @@
-----15-09-2026--------
+----16-09-2026--------
 i learn functions and how to difine,types
 built in, standard, external libraries and user difined function
 learned about parameters,aruguments,
@@ -8,7 +8,7 @@ difference between *args, **kwargs.
 
 
 
------14-09-2026-------
+-----12-09-2026-------
 Today i cloned school management web application using git clone command 
 Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
 Learned how to use Git commands such as git clone and git pull.
@@ -19,7 +19,7 @@ also add existing records data to application
 
 
 
-------13-09-2026---------
+------11-09-2026---------
 I learn some basic concepts about Django and web applications
 i understand differance between frontend and backend
 i also got idea about frontend and backend work together
