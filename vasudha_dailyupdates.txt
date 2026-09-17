@@ -1,3 +1,13 @@
+----15-09-2026--------
+i learn functions and how to difine,types
+built in, standard, external libraries and user difined function
+learned about parameters,aruguments,
+Positinal, keywords argumets
+difference between *args, **kwargs.
+
+
+
+
 -----14-09-2026-------
 Today i cloned school management web application using git clone command 
 Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
