@@ -1,3 +1,45 @@
+----17-09-26-----
+Today i learned python Data structure concepts and inside methods i Practiced.
+
+Data structure concepts List, Tuple, Set, Dictionary.
+
+List: A list is a Python data structure used to store multiple values in a single variable.
+
+List inside methods:append() ----> adds one item.
+                    insert()-----> adds at a specific position.
+                    remove()-----> remove by value.
+                    pop()--------> remove by index.
+                    extend()-----> adds multiple items.
+                    clear()------> removes everything.
+Tuple: A tuple is a colliction of multiple values stored in a single variable.
+
+Tuple inside methods:count()-----> Counts how many times a value apperars.
+                     index()-----> Returns the index of the first occurence of a value.
+
+set: A set is a python data sturcture used to store unique values.
+
+Set inside methods:add()--------> Adds one element to a Set.
+                   update()-----> Adds multiple elements in a Set.
+                   remove()-----> Remove a specific element in a Set.
+                   pop()--------> Remove and eturns an arbitrary element from the set.
+                   clear()------> Removes all elements.
+                   union()------> Combines all unique elements form two sets.
+               intersection()---> Returns elements that are common to both sets.
+               difference()-----> Returns elements that exist in the first set but not in the second.
+                isdisjoint()----> This checks whether two sets have no common elements.
+                is subset()-----> checks whether all elements of the one set exist inside another set.
+                is superset()---> checks whether a set contains all elements of another set.
+Dictionary: A dictionary is a python data structure that stores data as key-value pairs.
+
+Dictionary inside methods: Keys()---->Returns all Keys.
+                           values()-->Returns all values.
+                           items()--->Return key-value pairs.
+                           update()--->Used to all new key-value pairs or update existing values.
+                           pop()------>Remove a specific key returns its value.
+                           popitems()--->Remove and returns the last inserted key- values pairs.
+ and some methods clear(), copy(), len() ect these data structure concept and inside methods i learned and Practiced.                          
+
+
 -----16-09-26---- 
 Today i learned python fundamentals concepts like  basic print statements onwards and variables & Data types.
 
@@ -75,4 +117,6 @@ Daily Updates: Web Application & Django Development
 
 
 *Mainly API (Application Programming Interface) allows two applications to communicate with each other.
+
+
 
