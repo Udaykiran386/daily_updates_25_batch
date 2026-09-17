@@ -1,3 +1,13 @@
+---- 17-09-2026 --------
+Daily Update :  PySpark Advanced Data Operations & Mentorship:
+Data Aggregations & Joins: Explored PySpark grouping mechanisms (groupBy()) and combined datasets across relational keys using join().
+
+DataFrame Merging: Practiced combining rows across DataFrames using union(), unionAll(), and schema-aware matching with unionByName().
+
+String Manipulations: Reviewed core Python string data concepts along with built-in functions for text processing.
+
+Peer Mentorship: Led a review session explaining string handling and predefined functions to the rest of the batch.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 16-09-2026 --------
 Daily Update :  PySpark Fundamentals & DataFrame Operations:
 DataFrame Manipulations: Practiced selecting specific columns (select()), adding/modifying columns (withColumn()), and renaming existing fields (withColumnRenamed()).
