@@ -1,3 +1,17 @@
+---- 18-09-2026 --------
+Daily Update :  Custom PySpark Transformations & Python Code Quality:
+Custom PySpark Functions: Built User Defined Functions (UDF) to execute custom row-level logic on DataFrames.
+
+DataFrame Pipeline Design: Applied modular DataFrame transformations using transform() to chain custom operations cleanly.
+
+Function Mapping & Pandas Integration: Utilized function mapping mechanisms (apply()) for vectorized operations and custom logic execution.
+
+Type Checking & Runtime Verification: Used isinstance() to enforce dynamic type checking and runtime object validation across Python scripts.
+
+Type Hints & Code Structure: Implemented type annotations (typing module) to improve static code readability and documentation standards.
+
+Static Code Analysis: Set up linters (e.g., Flake8, PyLint) to automatically enforce code formatting, style consistency, and catch potential bugs early.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 17-09-2026 --------
 Daily Update :  PySpark Advanced Data Operations & Mentorship:
 Data Aggregations & Joins: Explored PySpark grouping mechanisms (groupBy()) and combined datasets across relational keys using join().
