@@ -1,3 +1,21 @@
+----18-09-26----
+Today i revised and practiced Data structure concepts.
+
+I learned another topic Variables, Values and operators python data types(int, float, str, bool, None).
+
+Arithmetic operators like(add, sub, mul, div, floor, mod, pow) and i builted calculator program using python code.
+
+String slicing means taking a part of a string using its positions (indexes) string[start:stop:step].
+Example:
+Positive slicing                         Negative slicing
+------------------                      ---------------------
+text = "PYTHON"                          text = "PYTHON"
+
+                                          print(text[-4:-1])                                            
+print(text[0])
+print(text[2])
+print(text[-1]) 
+
 ----17-09-26-----
 Today i learned python Data structure concepts and inside methods i Practiced.
 
