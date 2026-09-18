@@ -1,3 +1,14 @@
+----18-09-2026-------
+i practiced some questions regarding functions
+practiced positinal, keyward aruguments
+learn map, filter, lamda functions 
+
+
+----17-09-2026-------
+practiced list comprehension,dictionaries
+and discussed data types(list,tuple,dict,int,float,string)
+
+
 ----16-09-2026--------
 i learn functions and how to difine,types
 built in, standard, external libraries and user difined function
