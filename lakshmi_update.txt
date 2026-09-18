@@ -1,3 +1,12 @@
+--------------------17-09-2026----------
+i have learned about data types of python
+int pre defined functions and comparision operations.
+float operations
+list operations
+string operations
+set operations and listened some utube videos about python basics.
+
+------------------------------------------------------------------------------------------------------------
 ----  11-09-2026----
 learned about web application and django framework.
 i have researched about rest APIS like GET,POST,PUT,PATCH,DELETE.
