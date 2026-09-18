@@ -1,3 +1,12 @@
+-------------18-09-2026----------
+I have learned about different types of functions
+learned map, 
+filter,
+print,
+remove,discard
+learned about for loop
+ifs,nested ifs,elif,else conditions
+---------------------------------------------------------------------------------------------------------
 --------------------17-09-2026----------
 i have learned about data types of python
 int pre defined functions and comparision operations.
