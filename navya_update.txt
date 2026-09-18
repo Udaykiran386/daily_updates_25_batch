@@ -1,5 +1,12 @@
-------17-09-2026------
+------18-09-2026------
+Learned about conditional statements in Python, including if, elif, and else.
+Learned about the for loop and practiced iterating over sequences and collections.
+Discussed and practiced the print() predefined function and its usage in Python.
+Learned about map() and filter() predefined functions and understood how they are used with functions and iterables.
+Learned about functions in Python, including how to define, call, and use functions with parameters and return values.
 
+
+------17-09-2026------
  Learned about comparison, logical and membership operators in Python and practiced their usage.
  Learned about if statements and how to use conditions to control program execution.
  Learned about list  and list type casting - understood how to convert different data types into a list.
