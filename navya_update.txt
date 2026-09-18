@@ -1,8 +1,17 @@
+------17-09-2026------
+
+ Learned about comparison, logical and membership operators in Python and practiced their usage.
+ Learned about if statements and how to use conditions to control program execution.
+ Learned about list  and list type casting - understood how to convert different data types into a list.
+ Learned and practiced predefined list functions/methods such as append(), extend() insert(), remove(), pop(), sort() and reverse().
+ Reviewed  Python data types such as int, float, string, list and boolean along with commonly used built-in functions.
+
+
+
 ------16-09-2026-----
 Revised the concepts of web applications, including how a web application works, its basic architecture, request and response flow, and how Django handles requests.
 Revised Django concepts such as project structure, URL routing, views, models, ORM, and database interaction.
 Revised the membership operators in and not in in Python and practiced how they are used to check whether a value exists in a sequence such as a list, tuple, string, or set.
-
 
 
 ------12-09-2026-----
@@ -14,8 +23,6 @@ Downloaded SQLite and used it to store the application data.
 Explored the application and understood some of its features and the commands required to start the application.
 Successfully ran the application and performed CRUD operations.And I Created students,teachers,workers.
 Created seed data and populated the application with sample data.
-
-
 
 
 ----11-09-2026----
