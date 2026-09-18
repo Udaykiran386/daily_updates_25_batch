@@ -1,0 +1,122 @@
+----17-09-26-----
+Today i learned python Data structure concepts and inside methods i Practiced.
+
+Data structure concepts List, Tuple, Set, Dictionary.
+
+List: A list is a Python data structure used to store multiple values in a single variable.
+
+List inside methods:append() ----> adds one item.
+                    insert()-----> adds at a specific position.
+                    remove()-----> remove by value.
+                    pop()--------> remove by index.
+                    extend()-----> adds multiple items.
+                    clear()------> removes everything.
+Tuple: A tuple is a colliction of multiple values stored in a single variable.
+
+Tuple inside methods:count()-----> Counts how many times a value apperars.
+                     index()-----> Returns the index of the first occurence of a value.
+
+set: A set is a python data sturcture used to store unique values.
+
+Set inside methods:add()--------> Adds one element to a Set.
+                   update()-----> Adds multiple elements in a Set.
+                   remove()-----> Remove a specific element in a Set.
+                   pop()--------> Remove and eturns an arbitrary element from the set.
+                   clear()------> Removes all elements.
+                   union()------> Combines all unique elements form two sets.
+               intersection()---> Returns elements that are common to both sets.
+               difference()-----> Returns elements that exist in the first set but not in the second.
+                isdisjoint()----> This checks whether two sets have no common elements.
+                is subset()-----> checks whether all elements of the one set exist inside another set.
+                is superset()---> checks whether a set contains all elements of another set.
+Dictionary: A dictionary is a python data structure that stores data as key-value pairs.
+
+Dictionary inside methods: Keys()---->Returns all Keys.
+                           values()-->Returns all values.
+                           items()--->Return key-value pairs.
+                           update()--->Used to all new key-value pairs or update existing values.
+                           pop()------>Remove a specific key returns its value.
+                           popitems()--->Remove and returns the last inserted key- values pairs.
+ and some methods clear(), copy(), len() ect these data structure concept and inside methods i learned and Practiced.                          
+
+
+-----16-09-26---- 
+Today i learned python fundamentals concepts like  basic print statements onwards and variables & Data types.
+
+Python data types str, int, float, bool.
+
+performance of arithmetic operators like(add, sub, mul, div, floor, modulus, power). 
+
+performance of Comparison operators like(equal, not equal, greaterthan, greaterthan or equal, lessthan, lessthan or equal).
+
+performance of Input & type conversion.
+
+performance of conditional statements like(if, if-else, if-eif-else).
+
+performance of loops like(for, while, loop control(break, continue, pass)).
+
+Above these concepts i learned and Practiced.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----12-09-26----
+Today i learned clone the school management data git hub to vs code and inside the admin file, app file, forms, models, tests, urls, views
+and open the terminal run these commands python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python manage.py migrate
+.venv/bin/python manage.py runserver 
+
+After run the server command one web page should be opened inside details like below.
+
+Today i learned existing school database inside components Student--- details, email.id, phone no, grade level, guardian_name, guardian_phone and 
+Teachers details----- name, phone no, subject and qualification Workers----- name,email,phone no, role, department.
+
+If suppose enter some details like studens detail, teacher detail, worker details enter into web page that will display into database.
+
+Go to extensions download SQLITE mainly in this code one of the file is their seed_data.py if suppose inside student detais, worker detail, teacher details are edit inside code 
+that will display into school database in SQLite database engine.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+-----11-09-26----
+Daily Updates: Web Application & Django Development
+
+*Django is a python web framework used to build web applications quickly and securely.
+
+*Django maily follows MVT - Model, View, template
+
+                 Django Application
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+       Model          View         Template
+          │             │             │
+          ↓             ↓             ↓
+      Database      Business       HTML/CSS
+                     Logic
+
+*In this application performed backend we using view Business Logic(like python functions), Front end Template(HTML/CSS) and databases
+ are mainly performed CRUD operations c(Create), R(Read), U(Update), D(Delete).
+
+                 Django Web Application
+                          |
+                          ↓
+                    students/urls.py
+                          |
+             ┌────────────┴────────────┐
+             ↓                         ↓
+          views.py                  HTML
+             |
+             ↓
+          models.py
+             |
+             ↓
+          Database
+
+
+*Mainly API (Application Programming Interface) allows two applications to communicate with each other.
+
+
+

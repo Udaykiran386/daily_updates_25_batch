@@ -1,0 +1,32 @@
+------16-09-2026-----
+Revised the concepts of web applications, including how a web application works, its basic architecture, request and response flow, and how Django handles requests.
+Revised Django concepts such as project structure, URL routing, views, models, ORM, and database interaction.
+Revised the membership operators in and not in in Python and practiced how they are used to check whether a value exists in a sequence such as a list, tuple, string, or set.
+
+
+
+------12-09-2026-----
+Daily updates: Created a Django Project
+Prepared SQL queries for the mock interview and, based on the feedback, learned and practiced some additional SQL questions.
+Learned how to use Git commands such as git clone and git pull.
+Used git clone to get the complete application code.
+Downloaded SQLite and used it to store the application data.
+Explored the application and understood some of its features and the commands required to start the application.
+Successfully ran the application and performed CRUD operations.And I Created students,teachers,workers.
+Created seed data and populated the application with sample data.
+
+
+
+
+----11-09-2026----
+Daily updates: Web Application using Django 
+
+Learned how to build web applications using the Django framework.
+Understood the basic structure of a Django web application, including the role of manage.py, views.py, URLs, models, templates, and settings.
+Learned how Django handles client requests and responses through views and URL routing.
+Learned about REST APIs and their purpose in communication between applications.
+Understood common HTTP methods used in REST APIs, such as GET, POST, PUT, and DELETE, and their respective purposes:
+GET – Retrieve data
+POST – Create new data
+PUT – Update existing data
+DELETE – Delete data
