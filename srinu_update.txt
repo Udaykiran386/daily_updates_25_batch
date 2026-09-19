@@ -1,3 +1,23 @@
+-----19-09-26----
+Today i learned functions in python it is mainly reusable block of the code that performs a specific task insted of writing the 
+the same code many times, we write it once inside a function and call it whenever needed.
+
+Basic function: def greet():
+    print("Hello, welcome to Python!")
+
+greet()
+
+Their are so many topics in functions.
+Function with a parameter: A parameter is a variable that receives a value when the function is called.
+Default Parameter: You can give a parameter a default value.
+Keyword Arguments: You can specify the parameter name when calling the function.
+positional Arguments: It is an argument passed to a function based on its position(order).
+**Kwargs: It allows a function to receive mltiple keyword arguments.
+
+These are the main function concepts i learned and practiced.
+
+I worte the calculator code using functions concept and understand how it's work.
+
 ----18-09-26----
 Today i revised and practiced Data structure concepts.
 
