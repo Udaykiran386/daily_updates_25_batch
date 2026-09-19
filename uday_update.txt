@@ -1,3 +1,14 @@
+---- 19-09-2026 --------
+Daily Update :  Python & PySpark Revisions, Virtual Environments, and Project Onboarding:
+
+Core Python Revision: Conducted a comprehensive review of fundamental Python concepts and programming paradigms to reinforce foundational skills.
+
+PySpark DataFrame Revision: Reviewed PySpark DataFrame API methods, transformations, and actions to ensure smooth data processing workflows.
+
+Environment Configuration: Deepened understanding of virtual environments (.venv), including isolated dependency management and package paths.
+
+Project Initiation: Explored the architectural overview, requirements, and structural setup for the upcoming PySpark project.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 18-09-2026 --------
 Daily Update :  Custom PySpark Transformations & Python Code Quality:
 Custom PySpark Functions: Built User Defined Functions (UDF) to execute custom row-level logic on DataFrames.
