@@ -1,3 +1,13 @@
+---- 21-09-2026 --------
+Daily Update :  PySpark Architecture, SQL Operations, and Performance Monitoring:
+Python & PySpark SQL Revision: Conducted a targeted revision of Python fundamentals alongside PySpark SQL functions, expressions, and join operations.
+
+Cluster Architecture Mechanics: Studied Apache Spark's execution model, focusing on the roles of driver nodes, worker processes, and distributed task coordination.
+
+Spark UI & Job Monitoring: Accessed and navigated the Spark Web UI (localhost:4040) to track real-time job execution, execution DAGs, stages, and task distributions.
+
+Performance Optimization Analysis: Evaluated query performance metrics to identify bottlenecks, resource utilization, and efficient data shuffling patterns across nodes.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 19-09-2026 --------
 Daily Update :  Python & PySpark Revisions, Virtual Environments, and Project Onboarding:
 
