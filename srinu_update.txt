@@ -1,3 +1,30 @@
+----22-09-26----
+Today i learn  using python and django frame code to built a web application school management system.
+
+Inside this application their are three components is their students details, workers details, teachers details in this project
+we used  database sql CRUD operations it menas C- create , R- retrive the data U- update the data, D- delete the data.
+
+Main agenda of the project is to built a web appliction add the students, teachers, workers and manage the large amount of data.
+
+
+some of the HTML code used in this project to view how much length we want to give while entered the details.
+
+COMMANDS USED IN THIS PROJECT:
+1. Open VS Code from CMD: code .
+2. Open Terminal in VS Code: Ctrl + `
+3. Clone Repo: git clone YOUR_REPOSITORY_URL
+4. Create Virtual Environment: python3 -m venv .venv
+5. Windows PowerShell Execution Policy Fix: Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+6. Activate Virtual Environment (Windows): .venv\Scripts\Activate.ps1
+7. Activate Virtual Environment (Mac/Linux): source .venv/bin/activate
+8. Install Requirements: python -m pip install -r requirements.txt
+9. Run Migrations: python manage.py migrate
+10. Seed Database: python seed_data.py
+11. Run Server: python manage.py runserver
+
+After running python manage.py runserver  web appliction url will work afer open the url inside we need to add student ,teacher, worker details
+main purpose of this application is to manage school management information.                                                       
+
 -----19-09-26----
 Today i learned functions in python it is mainly reusable block of the code that performs a specific task insted of writing the 
 the same code many times, we write it once inside a function and call it whenever needed.
