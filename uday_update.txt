@@ -1,3 +1,13 @@
+---- 22-09-2026 --------
+Daily Update :  Apache Spark Core Architecture & Query Optimization:
+Spark Core Architecture: Explored the underlying framework, focusing on Driver node management, Worker node execution, Cluster Managers, and distributed Executor tasks.
+
+Execution Mechanics: Studied Lazy Evaluation via Directed Acyclic Graphs (DAG) alongside automatic Fault Tolerance recovery via lineage graphs and resilient data partitions.
+
+Data Partitioning Strategies: Learned data distribution and parallelism across worker nodes using optimal partition sizing, repartitioning, and shuffling boundaries.
+
+Execution Plan Analysis (.explain()): Evaluated DataFrame physical and logical execution plans using various output modes (extended, formatted, codegen, cost, and simple) to inspect optimization passes and debug bottlenecks.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 21-09-2026 --------
 Daily Update :  PySpark Architecture, SQL Operations, and Performance Monitoring:
 Python & PySpark SQL Revision: Conducted a targeted revision of Python fundamentals alongside PySpark SQL functions, expressions, and join operations.
