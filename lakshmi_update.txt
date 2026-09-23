@@ -1,3 +1,10 @@
+--------------23-09-2026----------
+learned about string functions.
+learned about replace,uppercase,lowercase
+learned about list,tupple
+practiced string operations.
+practiced index,slicing etc
+--------------------------------------------------------------------------------------------------------
 -------------18-09-2026----------
 I have learned about different types of functions
 learned map, 
