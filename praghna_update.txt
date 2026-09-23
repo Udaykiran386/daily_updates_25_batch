@@ -1,12 +1,38 @@
+---- 23-09-2026 --------
+• Uploaded the Django project video for the assigned task
+• Watched and learned Python string functions
+• Learned and practiced numeric functions in Python
+• Practiced string and numeric function examples
+• Worked on coding exercises to strengthen Python fundamentals
+
+
+---- 22-09-2026 --------
+• Strings
+• Practiced string operations and character manipulation in Python
+• Learned string indexing, slicing, and built-in string methods
+• User Inputs
+• Practiced taking user input using `input()` and processing the input data
+• Practiced coding exercises based on strings and user inputs
+• Prepared and recorded the video explanation for the assigned task 
+
+
+---- 21-09-2026 --------
+• Introduction, Output and Math Operators in CodeChef
+• Variables and Data Types
+• Learned about different built-in data types in Python
+• Practiced creating variables and assigning values
+• Practiced print() statements and displaying variable values
+• Learned basic arithmetic operators and performed simple calculations
+• Practiced basic Python programs using variables, data types, and operators
+
+---- 16-09-2026 --------
+1. Cloned the Django project from Git and set up the Python virtual environment.
+2. Ran the Django migrations and created the required database tables.
+3. Added the required data and created a backup of the dataset for local development.
+
 ---- 11-09-2026 --------
 Daily Update: Web Application & Django Development.
 Learned how web applications work from the front-end to the back-end and database.
 Practiced setting up a Django project and understanding its MVT architecture, URL routing, views, templates, and models.
 Worked on creating a basic Django web application and configuring the required project files and database migrations.
 
----- 12-09-2026 --------
-1. Cloned the Django project from Git and set up the Python virtual environment.
-
-2. Ran the Django migrations and created the required database tables.
-
-3. Added the required data and created a backup of the dataset for local development.
