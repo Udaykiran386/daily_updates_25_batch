@@ -1,4 +1,18 @@
-----22-09-26----
+---23-09-26----
+Today i learned File handling concepts in python to create, read, write, append, & create new file, update and manage files.
+
+syntax open file: open("filename", "mode")
+
+I worte the file handling concept codes into visual studio and understand how its work and applied different modes(r,w,a)
+In file handling concept i learned another topic encoding it working with text files, UTF-8 is a common choice i understand encoding each and 
+every language some code will run on the backend that is also called encoding.
+
+EX:with open("student.txt", "w", encoding="utf-8") as file:
+    file.write("Hello Python")
+I learned string functions and inside operations on string like startswith, endswith, upper, lower, index, split, find, center these 
+are the concepts i learned today.
+
+      ----22-09-26----
 Today i learn  using python and django frame code to built a web application school management system.
 
 Inside this application their are three components is their students details, workers details, teachers details in this project
