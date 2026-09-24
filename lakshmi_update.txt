@@ -1,3 +1,9 @@
+-----------------------24-09-2026----------------------------------------------------------------------
+i have learned about absolute value,round off values
+practiced some examples about those ceil,floor round off values
+practiced about isalpha,isnumeric values
+practiced random ,isinstance ,bool values
+
 --------------23-09-2026----------
 learned about string functions.
 learned about replace,uppercase,lowercase
