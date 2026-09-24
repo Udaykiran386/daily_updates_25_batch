@@ -1,3 +1,10 @@
+------24-09-2026------
+Practiced Python data types and understood how different types such as integers, floats, strings, lists, tuples, dictionaries, and booleans are used in Python programs.
+Worked with strings and learned how to perform different string operations and use commonly used string methods.
+Practiced different types of operators, including arithmetic, comparison, logical, assignment, and membership operators, and understood how they are used in different conditions.
+Worked with conditional statements such as if, elif, and else to execute different blocks of code based on given conditions.
+Practiced Python data structures such as lists, tuples, and dictionaries, including creating, accessing, updating, and performing different operations on their elements.
+
 ------23-09-2026------
 Practiced creating and calling Python functions.
 Practiced using parameters, arguments and return values in functions.
