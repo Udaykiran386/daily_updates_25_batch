@@ -1,3 +1,21 @@
+---- 24-09-2026 --------
+Daily Update :  Databricks Platform Architecture, Delta Lake & Medallion Data Engineering Project:
+Partition Management: Utilized coalesce() to optimize storage partitioning and eliminate unnecessary network shuffling when writing DataFrames.
+
+Spark Metastore Management: Explored the differences between Managed (Spark-controlled storage and lifecycle) and External (user-managed storage locations) tables.
+
+Delta Lake Engine & Storage: Studied Delta Lake format capabilities, including ACID transaction guarantees, unified batch/streaming processing, and historical Time Travel querying via commit logs.
+
+Data Governance & Unity Catalog: Understood Databricks Unity Catalog for centralized access control, lineage tracking, and schema governance across workspaces.
+
+Cloud Integration & Onboarding: Initiated project setup by performing data discovery, establishing AWS S3 bucket connections, and mounting cloud storage to external tables.
+
+Medallion Architecture Implementation: Hands-on development of the Medallion Architecture data pipeline:
+• Bronze: Ingested raw dimensional source data into landing tables.
+
+• Silver: Cleaned, filtered, and structurally validated data for dimensional processing.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 23-09-2026 --------
 Daily Update :  Advanced PySpark RDD Operations, Sampling, Partitioning & Python File I/O:
 RDD Functional Operations: Applied low-level RDD transformations (map(), flatMap()) for element-wise mapping and array flattening, alongside iterative actions (foreach()).
