@@ -1,3 +1,33 @@
+------24-09-2026------
+Practiced Python data types and understood how different types such as integers, floats, strings, lists, tuples, dictionaries, and booleans are used in Python programs.
+Worked with strings and learned how to perform different string operations and use commonly used string methods.
+Practiced different types of operators, including arithmetic, comparison, logical, assignment, and membership operators, and understood how they are used in different conditions.
+Worked with conditional statements such as if, elif, and else to execute different blocks of code based on given conditions.
+Practiced Python data structures such as lists, tuples, and dictionaries, including creating, accessing, updating, and performing different operations on their elements.
+
+------23-09-2026------
+Practiced creating and calling Python functions.
+Practiced using parameters, arguments and return values in functions.
+Practiced different types of function arguments.
+Learned and practiced file handling in Python.
+Practiced reading, writing and appending data to files using different file modes.
+
+------22-09-2026------
+1. Learned about Python functions and their importance in code reusability.
+2. Learned how to define and call functions using the def keyword.
+3. Practiced using parameters and arguments in functions.
+4. Learned about return statements and returning values from functions.
+5. Practiced different types of arguments, including positional, keyword, and default arguments.
+
+
+------19-09-2026------
+Learned about Python data structures focusing on lists and dictionaries.
+Learned how to create, access, update, and delete elements from lists and dictionaries.
+Practiced commonly used list methods such as append(), insert(), remove() and pop().
+Learned about dictionary key-value pairs and practiced adding, updating, and accessing values using keys.
+Practiced basic examples to improve understanding of lists and dictionaries in Python.
+
+
 ------18-09-2026------
 Learned about conditional statements in Python, including if, elif, and else.
 Learned about the for loop and practiced iterating over sequences and collections.

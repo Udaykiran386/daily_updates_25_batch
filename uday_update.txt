@@ -1,3 +1,13 @@
+---- 23-09-2026 --------
+Daily Update :  Advanced PySpark RDD Operations, Sampling, Partitioning & Python File I/O:
+RDD Functional Operations: Applied low-level RDD transformations (map(), flatMap()) for element-wise mapping and array flattening, alongside iterative actions (foreach()).
+
+Data Sampling Mechanics: Practiced random dataset sampling using sample() and stratified sampling across categorical keys using sampleBy().
+
+Cluster Partitioning: Managed dataset distribution and data shuffling across cluster nodes using repartition().
+
+Python File Handling Revision: Conducted a targeted revision on Python file I/O operations, covering file modes (r, w, a), context managers (with), and text/CSV parsing.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 22-09-2026 --------
 Daily Update :  Apache Spark Core Architecture & Query Optimization:
 Spark Core Architecture: Explored the underlying framework, focusing on Driver node management, Worker node execution, Cluster Managers, and distributed Executor tasks.

@@ -1,3 +1,16 @@
+-----------------------24-09-2026----------------------------------------------------------------------
+i have learned about absolute value,round off values
+practiced some examples about those ceil,floor round off values
+practiced about isalpha,isnumeric values
+practiced random ,isinstance ,bool values
+
+--------------23-09-2026----------
+learned about string functions.
+learned about replace,uppercase,lowercase
+learned about list,tupple
+practiced string operations.
+practiced index,slicing etc
+--------------------------------------------------------------------------------------------------------
 -------------18-09-2026----------
 I have learned about different types of functions
 learned map, 
