@@ -1,4 +1,10 @@
------------------------24-09-2026----------------------------------------------------------------------
+-------------------------------25-09-2026----------------------------------------------------------------------\
+i have learnt and  got some basic inforamtion about iterators,decorators in class.
+i have leaent about docker,docker hub.
+i have learned about functions.
+i have practiced some practice questions of task 1
+
+-------------------------------24-09-2026----------------------------------------------------------------------
 i have learned about absolute value,round off values
 practiced some examples about those ceil,floor round off values
 practiced about isalpha,isnumeric values
