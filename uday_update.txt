@@ -1,3 +1,13 @@
+---- 25-09-2026 --------
+Daily Update :  E-Commerce Medallion Pipeline, Gold Layer Completion & Orders Analytics Planning:
+Medallion Pipeline Completion: Finalized the processing pipeline for all remaining e-commerce entities across Bronze (raw ingestion), Silver (cleaning & schema validation), and Gold (business aggregates) layers.
+
+Gold Layer Analytics: Successfully completed the Gold layer build, delivering fully aggregated, analytics-ready dimensional tables for business reporting.
+
+E-Commerce Daily Orders Ingestion: Collected and staged 20 days of daily order transactional data in CSV format for incremental batch processing.
+
+Data Analysis & PowerBI Strategy: Conducted data discovery on the daily orders dataset and drafted an end-to-end processing strategy to serve optimized Gold metrics directly to PowerBI for Data Analyst dashboards.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 24-09-2026 --------
 Daily Update :  Databricks Platform Architecture, Delta Lake & Medallion Data Engineering Project:
 Partition Management: Utilized coalesce() to optimize storage partitioning and eliminate unnecessary network shuffling when writing DataFrames.
