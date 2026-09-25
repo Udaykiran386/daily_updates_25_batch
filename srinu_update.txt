@@ -1,3 +1,19 @@
+---25-09-26----
+Today i learned loop and loop control concept in python used to  repeatedly as long as a condition is satisfied or for each item in a sequence.
+
+Loop and loop control contain mainly for 1.Loop- Used when you want to repeat something over a sequence or a specific range, 2-While Loop-Used 
+when you want to repeat code while a condition is True.
+
+Loop control-Loop control statements are used to change the normal execution of a loop contain mainly,
+ 1.break     Completely stops the loop           
+ 2.continue Skips the current iteration         
+ 3.pass     Does nothing; acts as a placeholder 
+
+After i practiced some of the importent questions concepts like Tuples, Dictionaries, Lists and looping conditions i understand the logical part
+how the conditions will work.
+
+I learn one of the new topic Devops docker and docker hub.
+
 ---24-09-26----
 Today i learned Exception handling concept in python used to handle runtime error without stopping  the entire program unexceptedly.
 
