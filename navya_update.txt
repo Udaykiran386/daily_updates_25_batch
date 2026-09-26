@@ -1,3 +1,17 @@
+------26-09-2026------
+Practiced some Python questions as part of the assigned task, focusing on using loops with lists and applying them to different problem-solving scenarios.
+Discussed the for loop and while loop in detail, including their syntax, execution flow, and situations where each type of loop can be used.
+Worked with for loops to iterate through list elements and perform operations such as accessing, checking, and processing individual values.
+Practiced using while loops with lists and conditional statements to control the execution of the loop based on specific conditions.
+Worked on different list-based questions using loops and conditional statements to improve logical thinking and problem-solving skills.
+
+------25-09-2026------
+Practiced some Python questions as part of the assigned task and worked on improving problem-solving skills.
+Learned about iterators in Python and understood how they are used to access elements one by one.
+Learned about generators and understood how they generate values one at a time using the yield keyword.
+Learned about decorators and understood how they can be used to extend the functionality of functions.
+Explained Python functions to the team and discussed their usage with practical examples.
+
 ------24-09-2026------
 Practiced Python data types and understood how different types such as integers, floats, strings, lists, tuples, dictionaries, and booleans are used in Python programs.
 Worked with strings and learned how to perform different string operations and use commonly used string methods.
