@@ -1,3 +1,9 @@
+---- 26-09-2026 --------
+Practiced 50 Python coding questions.
+Studied Python loop concepts.
+Learned about logical operators in Python.
+Reviewed how logical operators are used in conditions.
+
 ---- 25-09-2026 --------
 * Practiced 30 Python programming questions.
 * Learned positional and keyword arguments in Python functions.
