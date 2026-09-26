@@ -1,3 +1,10 @@
+---- 25-09-2026 --------
+* Practiced 30 Python programming questions.
+* Learned positional and keyword arguments in Python functions.
+* Practiced `*args` and understood its usage in functions.
+* Started learning advanced functions from the Python `math` module.
+
+
 ---- 24-09-2026 --------
 
 * Completed the Python basic program practice questions given by Sir.
