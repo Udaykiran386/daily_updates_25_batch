@@ -1,3 +1,15 @@
+---26-09-26----
+Today's update: Practiced total python basic in first file and half of the second file.
+Learned about conditional statements.
+
+1. if statement: if statements execute a block of code when a condition is true.
+
+2. If-else statement: else executes when the if condition is False.
+
+3. If-elif-else: used when there are multiple conditions.
+
+And i practiced some of the important questions based on conditional statements that understand how it's working.
+
 ---25-09-26----
 Today i learned loop and loop control concept in python used to  repeatedly as long as a condition is satisfied or for each item in a sequence.
 
