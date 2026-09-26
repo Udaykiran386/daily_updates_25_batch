@@ -1,3 +1,21 @@
+---- 26-09-2026 --------
+Daily Update :  E-Commerce Orders Medallion Processing, Data Strategy & Python Technical Practice:
+Transactional Data Processing: Converted raw daily orders CSV files into structured tables and implemented end-to-end Medallion pipeline processing (Bronze, Silver, Gold).
+
+Storage Management & BI Analytics: Studied storage optimization concepts and analyzed how business-level Gold data structures streamline reporting and downstream PowerBI dashboarding.
+
+Modular Python Functions: Refactored a tip calculator script and implemented targeted practical examples to improve function design.
+
+Data Structures & Collections: Built a structured contact book application using nested dictionary records and list manipulations.
+
+Comprehensions & Unpacking: Utilized list/dictionary comprehensions and tuple unpacking to transform raw scores into structured summary metrics.
+
+Text Processing & Normalization: Developed a word counter application featuring case normalization and string/punctuation cleanup.
+
+Error Handling & Robustness: Implemented dynamic exception handling to gracefully validate input and prevent runtime crashes in string operations.
+
+Modularization & Packages: Refactored contact book helper utilities into a reusable, modular Python package structure.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 25-09-2026 --------
 Daily Update :  E-Commerce Medallion Pipeline, Gold Layer Completion & Orders Analytics Planning:
 Medallion Pipeline Completion: Finalized the processing pipeline for all remaining e-commerce entities across Bronze (raw ingestion), Silver (cleaning & schema validation), and Gold (business aggregates) layers.
