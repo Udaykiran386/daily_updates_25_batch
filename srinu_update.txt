@@ -1,3 +1,15 @@
+---28-09-26----
+Today update: Practiced some of the python coding questions regarding list, tuple, set, string, Dictionaries topics each 
+and every concept has different different logics and methods like using if and else condition based programs in data structure concept in programs.
+
+I learned another new topic what is AI and deeplearning inside models and neural network how its work and calculations and tokens, context window, vectors, fine tuning,
+model context protocal ect.
+
+Clearly understand basic part of LLM and inside models working mechanisms system and agentic AI .
+
+In SQL part what is SQL ,DBMS and RDBMS difference between data and database  in python how high level language convert in to machine
+level language calculations. 
+
 ---26-09-26----
 Today's update: Practiced total python basic in first file and half of the second file.
 Learned about conditional statements.
