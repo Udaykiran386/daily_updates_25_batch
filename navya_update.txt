@@ -1,3 +1,10 @@
+------28-09-2026------
+Worked on loops and conditional statements using Python data structures such as lists, tuples, sets, and dictionaries.
+Worked on different problems that combine loops, conditions, and multiple data structures.
+Understood the basics of programming languages, high-level languages, and low-level languages.
+Learned SQL fundamentals, the concepts of data, databases and Database Management Systems (DBMS).
+Learned about different types of databases and understood the basic concepts of relational databases.
+
 ------26-09-2026------
 Practiced some Python questions as part of the assigned task, focusing on using loops with lists and applying them to different problem-solving scenarios.
 Discussed the for loop and while loop in detail, including their syntax, execution flow, and situations where each type of loop can be used.
