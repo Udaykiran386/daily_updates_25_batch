@@ -1,3 +1,19 @@
+---- 29-09-2026 --------
+Daily Update :  Low-Level Computing Concepts, Advanced Python Mechanics & Project Completion:
+Computer Architecture & Binary Foundations: Explored low-level system mechanics to understand why computers process instructions using binary logic ($0$ and $1$) and digital switching.
+
+Interpreter Languages: Surveyed and tracked interpreted programming languages beyond Python to compare runtime execution and dynamic code processing models.
+
+Advanced Python Concepts: Re-examined advanced Python constructs, covering Iterators, Generators (lazy evaluation with `yield`), and Decorators for functional wrapping.
+
+Memory Management & Garbage Collection: Studied Python memory allocation mechanics, distinguishing between Stack memory (function call frames) and Heap memory (object storage), along with reference counting (`ob_refcnt`) and cyclic garbage collection.
+
+E-Commerce Medallion Pipeline Engineering: Finalized the end-to-end data processing pipeline by ingesting daily orders CSV files into structured Bronze, Silver, and Gold Medallion tables.
+
+BI Integration & Native Dashboarding: Evaluated storage optimizations and built interactive PowerBI dashboards directly within Databricks to power business reporting.
+
+Workflow Automation & Orchestration: Automated the Medallion pipeline using Databricks Workflows, configuring scheduled triggers and event-driven execution for incoming landing folder data to finalize the project.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 28-09-2026 --------
 Daily Update :  Database Fundamentals, Programming Concepts & Ongoing Medallion Architecture Strategy:
 Data Engineering Strategy: Continued evaluating storage management concepts and structural design to optimize business-level Gold data for downstream PowerBI analytics.
@@ -10,7 +26,6 @@ Data Architecture Essentials: Studied core distinctions between raw Data, Databa
 
 Relational Databases: Explored standard RDBMS classifications, structural features, and primary relational engines used across enterprises.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ---- 26-09-2026 --------
 Daily Update :  E-Commerce Orders Medallion Processing, Data Strategy & Python Technical Practice:
 Transactional Data Pipeline Engineering: Ingesting and converting raw daily orders CSV data into structured tables while iteratively implementing the Medallion Architecture pipeline (Bronze, Silver, Gold).
