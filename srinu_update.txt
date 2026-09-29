@@ -1,3 +1,20 @@
+---29-09-26---
+Today's update: Practiced some of the python coding questions regarding exception handling.
+
+In exception handling mainly try, except, else, finally understanding the concepts and how it's working and applied into different questions regarding exception handling.
+
+Exception handling ZeroDivisionError occurs when you try to divide a number by zero.
+
+Execution flow:              try
+              |
+        Exception occurs?
+          /          \
+        Yes           No
+        |              |
+     except          else
+        \              /
+         \            /
+           finally
 ---28-09-26----
 Today update: Practiced some of the python coding questions regarding list, tuple, set, string, Dictionaries topics each 
 and every concept has different different logics and methods like using if and else condition based programs in data structure concept in programs.
