@@ -1,3 +1,12 @@
+---30-09-26---
+# Today's update: I learned SQL topics what is SQL and difference between DBMS and RDBMS, primary key, forigen key, not null, unique, check.
+
+# Practiced creating tables customers records and orders records and insert into values using insert queries.
+
+# Practiced clauses like select ,where and i used some of the arithmetic, logical, comparision operators and i wrot the query understanded how its work.
+
+# Learned data type conversion using cast and convert understand the queries suppose how to convert the column data like EX:date into varchar(50).
+
 ---29-09-26---
 Today's update: Practiced some of the python coding questions regarding exception handling.
 
