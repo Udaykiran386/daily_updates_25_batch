@@ -1,3 +1,10 @@
+------30-09-2026------
+Learned SQL fundamentals, including constraints, operators, and schema management.
+Learned about database schemas and how tables are logically organized within a database.
+Learned about PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, and CHECK constraints and their purpose.
+Practiced using SELECT, WHERE, and ORDER BY to retrieve, filter, and sort data, along with operators like IN, BETWEEN, LIKE, and IS NULL.
+Learned about data type conversion in SQL using CAST() and CONVERT() and practiced arithmetic, logical, and comparison operators.
+
 ------28-09-2026------
 Worked on loops and conditional statements using Python data structures such as lists, tuples, sets, and dictionaries.
 Worked on different problems that combine loops, conditions, and multiple data structures.
