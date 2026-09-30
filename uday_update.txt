@@ -1,3 +1,17 @@
+---- 30-09-2026 --------
+Daily Update :  SQL Fundamentals, Constraints, Operators & Schema Management:
+Database Schema Concepts: Studied database schemas, logical structural organization, and table grouping mechanisms within relational engines.
+
+Data Quality & Constraints: Evaluated standard SQL constraints (e.g., PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, CHECK) to enforce domain integrity and data accuracy.
+
+Data Querying & Filtering: Practiced foundational data retrieval using the SELECT clause, along with row-level conditional filtering via the WHERE clause.
+
+Sorting & Data Ordering: Ordered query outputs using the ORDER BY clause to organize results ascendingly or descendingly based on single or multiple fields.
+
+Operators & Special Functions: Explored various SQL operator classifications (arithmetic, logical, comparison) alongside special filtering/conditional keywords (e.g., IN, BETWEEN, LIKE, IS NULL).
+
+Data Type Casting: Utilized explicit conversion functions and type casting operators (e.g., CAST(), CONVERT()) to transform field data types during query execution.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 29-09-2026 --------
 Daily Update :  Low-Level Computing Concepts, Advanced Python Mechanics & Project Completion:
 Computer Architecture & Binary Foundations: Explored low-level system mechanics to understand why computers process instructions using binary logic ($0$ and $1$) and digital switching.
