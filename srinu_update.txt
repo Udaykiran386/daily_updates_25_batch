@@ -1,3 +1,17 @@
+---01-10-26---
+# Today's update: I learned some of the topics like select, where, order by, limit/top, distinct, aggregate function in SQL.
+
+# Practiced each and every topic different scenarios like find the total employees details in employee table and using greaterthan salary,
+lessthan salary, using where condition find out particular department used range between salary alphabetical order in employee name in select & where clause.
+
+
+#Order by concept asc&dec order of salary, sorted by joining date, lowest-paid, highest-paid employees.
+
+#Limit/top display top 5 employees salaries, using OFFSET 1 and limit 1 find out second highest salary of the employees table like different scenarios i understand.
+
+
+#Distinct means uniquely identify the value or numbers in the employee table like finding distinct manage IDs ect.
+
 ---30-09-26---
 # Today's update: I learned SQL topics what is SQL and difference between DBMS and RDBMS, primary key, forigen key, not null, unique, check.
 
