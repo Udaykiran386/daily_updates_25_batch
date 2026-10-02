@@ -3,6 +3,7 @@ revised group by, order by clauses in sql
 practiced if,else conditional statements in python
 revised aggregate functions in sql and usage with group by
 revised joins in sql and practiced some examples regarding those.
+practiced for,while loops,conditional statements.
 -------------------------------01-10-2026------------------------------------------------------------
 learned about functions.
 practiced some of the task questions of taks 1 file
