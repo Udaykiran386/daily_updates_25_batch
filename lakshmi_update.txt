@@ -4,6 +4,7 @@ practiced if,else conditional statements in python
 revised aggregate functions in sql and usage with group by
 revised joins in sql and practiced some examples regarding those.
 practiced for,while loops,conditional statements.
+complete python task of triggering mail if python code passed or fail given by gopi sir
 -------------------------------01-10-2026------------------------------------------------------------
 learned about functions.
 practiced some of the task questions of taks 1 file
