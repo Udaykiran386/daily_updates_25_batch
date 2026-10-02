@@ -1,3 +1,25 @@
+---- 02-10-2026 --------
+Daily Update :  SQL Querying, Aggregations & Python Parameter Evaluation:
+Parameter Passing Mechanics: Re-examined Python memory evaluation concepts, reinforcing pass-by-value and pass-by-reference behaviors across mutable and immutable objects.
+
+SQL Conditional Filtering: Applied logical AND operators and the BETWEEN range keyword within SQL queries to refine conditional row selection.
+
+SQL Aggregations & Grouping: Utilized aggregate functions (SUM(), AVG(), COUNT(), MIN(), MAX()) along with the GROUP BY clause to generate summarized metrics across categorical data.
+
+Hands-on SQL Practice: Solved targeted practical query problems to consolidate understanding of SQL filtering, aggregation, and grouping operations.
+
+Task Automation Strategy: Worked on configuring event-based and scheduled job triggers to automate workflow executions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 01-10-2026 --------
+Daily Update :  Python Core Concepts, File Management & Pathlib Automation:
+Parameter Passing Mechanics: Evaluated parameter passing behaviors in Python, analyzing object references, mutability, and the distinction between pass-by-value and pass-by-reference models.
+
+Iterators & Generators Practice: Reviewed lazy evaluation constructs and solved practical programming problems using custom iterators and generator functions (yield).
+
+Pathlib & Directory Management: Mastered object-oriented file system handling using the modern pathlib module to manipulate paths, inspect directories, and manage file operations cleanly.
+
+Automated File Organizer Utility: Implemented a Python script to scan target directories and automatically organize/group files into dedicated subfolders based on their file extensions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 30-09-2026 --------
 Daily Update :  SQL Fundamentals, Constraints, Operators & Schema Management:
 Database Schema Concepts: Studied database schemas, logical structural organization, and table grouping mechanisms within relational engines.
