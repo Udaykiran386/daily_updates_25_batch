@@ -1,3 +1,16 @@
+---02-10-26---
+# Today's update: I learned some of the  topics like aggregate function, group by, having functions in SQL.
+
+# Practiced each and every topic different scenarios like using aggregate functions count(), min(), max(), sum() avg() find avg salary of employees
+find maximum salary of employees, same as minimum salary of employees, sum of total salary used distinct key  to find unique values if departments like 
+some of the Q&A i practiced.
+
+# Using group by function grouping the each department and find the average salary of each department and count employees in each  city like 
+different scenarios based operations i performed.
+
+
+# Using a having function employees table find the departments of average salary who is greaterthan 60000 like i performed min and max ,count functions.
+
 ---01-10-26---
 # Today's update: I learned some of the topics like select, where, order by, limit/top, distinct, aggregate function in SQL.
 
