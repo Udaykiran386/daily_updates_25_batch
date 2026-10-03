@@ -1,3 +1,25 @@
+------02-10-2026------
+Solved some problems related to Python functions and improved my understanding through practice.
+Worked with SQL aggregate functions like SUM(), AVG(), COUNT(), MIN(), and MAX().
+Learned about the GROUP BY clause, how it works, and why it is important for grouping and summarizing data.
+Solved practical SQL problems to strengthen my understanding of querying and aggregation concepts.
+Worked on configuring scheduled and event-based triggers for workflow automation.
+
+------01-10-2026------
+Revised some basic concepts in SQL to strengthen my understanding of the fundamentals.
+Practiced for loops and understood how they work with different examples.
+Practiced nested for loops and worked on problems using loops inside loops.
+Solved some Python problems using loops and conditions to improve problem-solving skills.
+Learned more about Python functions and practiced creating and using functions.
+
+
+------30-09-2026------
+Learned SQL fundamentals, including constraints, operators, and schema management.
+Learned about database schemas and how tables are logically organized within a database.
+Learned about PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, and CHECK constraints and their purpose.
+Practiced using SELECT, WHERE, and ORDER BY to retrieve, filter, and sort data, along with operators like IN, BETWEEN, LIKE, and IS NULL.
+Learned about data type conversion in SQL using CAST() and CONVERT() and practiced arithmetic, logical, and comparison operators.
+
 ------28-09-2026------
 Worked on loops and conditional statements using Python data structures such as lists, tuples, sets, and dictionaries.
 Worked on different problems that combine loops, conditions, and multiple data structures.
