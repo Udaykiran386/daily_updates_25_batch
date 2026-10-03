@@ -1,3 +1,9 @@
+-------------------------------03-10-2026 --------------------------------------------------------
+revised date type of data types,like converting string to date type and then to another date format
+practiced concat,concate with separator
+practiced split functions
+practiced conditional dtatemnts in sqlpracticed inner join,left join and right join,full join.
+practiced insert,drop for table
 -------------------------------02-10-2026---------------------------------------------------------
 revised group by, order by clauses in sql
 practiced if,else conditional statements in python
