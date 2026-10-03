@@ -1,3 +1,20 @@
+---03-10-26---
+# Today's update: I learned some of the topics like string functions, date functions joins like inner, left join, right join, full join in sql.
+
+# Practiced each and every topic different scenarios like using string functions convert name into uppercase, lowercase, find out string length and
+replace with one letter to another letter suppose replace a to @ use concat operation to add two names like first name and last name ect.
+
+# Using date functions concept display the current date and timestamp calculate employees experience add 30 days into joining date and
+find the year of joining ect some of the Q&A i practiced and understand the concepts.
+
+
+# Practiced joins s used to combine data from two or more tables based on a related column between them,
+types of joins:
+INNER JOIN : Returns only the rows where the joining column has a matching value in both tables.
+LEFT JOIN: Returns all rows from the left table and only the matching rows from the right table. If there is no match, NULL is returned.
+RIGHT JOIN: Returns all rows from the right table and only the matching rows from the left table. If there is no match, NULL is returned.
+FULL JOIN: Returns all rows from both tables. Matching rows are combined, while non-matching rows contain NULL.
+
 ---02-10-26---
 # Today's update: I learned some of the  topics like aggregate function, group by, having functions in SQL.
 
