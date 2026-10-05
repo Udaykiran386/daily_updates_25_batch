@@ -1,3 +1,12 @@
+---05-10-26---
+#  The main purpose of this Django application is to track every student's interview journey from registration to final selection. Instead of maintaining student
+ and interview information in Excel sheets or separate documents, Tweak Technologies can manage everything through a single web application.
+  
+# Tweak Technologies Student Interview Management System is a web-based application developed using Python and Django to manage students and track their
+ complete interview process. The application provides a centralized platform for maintaining student details, scheduling interviews, recording interviewer feedback,
+ and tracking interview results. It enables HR and management teams to monitor every student's progress through different interview stages, from initial screening to
+ final selection or rejection. The system improves interview management, reduces manual work, and provides clear visibility into the overall recruitment process.
+
 ---03-10-26---
 # Today's update: I learned some of the topics like string functions, date functions joins like inner, left join, right join, full join in sql.
 
