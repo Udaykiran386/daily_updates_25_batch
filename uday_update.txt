@@ -1,3 +1,15 @@
+---- 05-10-2026 --------
+Daily Update :  SQL Practice, Django Dashboards & Advanced Authentication System:
+SQL Problem Solving: Solved targeted query challenges on sql-practice.com to strengthen hands-on database filtering, join, and aggregation skills.
+
+Role-Based Dashboards: Built distinct Django user interfaces and role-specific dashboard views tailored separately for system Administrators and Students.
+
+Email OTP Verification: Engineered a secure user verification system utilizing One-Time Passwords (OTP) sent via email to validate student registrations.
+
+Advanced Batch Segregation: Designed and implemented enhanced data filtering logic to categorize, manage, and track student records based on their assigned batches.
+
+Bug Fixes & Refactoring: Identified, debugged, and resolved runtime issues across backend workflows, optimizing application code for stability and security.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 03-10-2026 --------
 Daily Update :  SQL Functions, Job Automation & Django Web Development:
 Job Automation Completion: Finalized and successfully deployed the job trigger task to handle automated workflow execution.
