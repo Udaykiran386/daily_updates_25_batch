@@ -1,3 +1,24 @@
+------06-10-2026------
+Modified the Student Management web application and worked on improving its existing features and functionality.
+Worked on the login page and understood the flow of user login and registration.
+Worked on authentication and authorization to control user access based on their roles and permissions.
+Worked on understanding the application functionality and tested different features to identify and rectify errors.
+Practiced Python questions based on sets, including set operations, adding and removing elements, and checking elements in sets.
+
+------05-10-2026------
+Worked on building a web application using Django and understood the basic development flow.
+Worked on different parts of the web application, including views, URLs, models, and templates.
+Practiced some Python questions to improve coding and problem-solving skills.
+Solved Python problems using concepts such as list,tuple data structures.
+Worked on identifying and rectifying errors in the code to improve the application.
+
+------03-10-2026------
+Worked on SQL functions and practiced string and date/time functions for handling and transforming data.
+Extended the job trigger task to automate email notifications during workflow execution.
+Practiced SQL joins such as INNER JOIN, LEFT JOIN, and RIGHT JOIN to combine data from different tables.
+Started developing a Student Interview Tracking Application using Django.
+Worked on the basic Django project structure and started building the features needed for the application.
+
 ------02-10-2026------
 Solved some problems related to Python functions and improved my understanding through practice.
 Worked with SQL aggregate functions like SUM(), AVG(), COUNT(), MIN(), and MAX().
