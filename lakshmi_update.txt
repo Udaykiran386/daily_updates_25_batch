@@ -1,3 +1,10 @@
+-------------------------------06-10-2026 --------------------------------------------------------
+tested the web application and i had explored all about the web application.
+improved download option for the rejected interview company and hr contact list.
+practiced sql questions of joins.
+-------------------------------05-10-2026 --------------------------------------------------------
+developed web application regarding trainees for LUCKY INSTITUTE.
+solved some python tasks questions.
 -------------------------------03-10-2026 --------------------------------------------------------
 revised date type of data types,like converting string to date type and then to another date format
 practiced concat,concate with separator
