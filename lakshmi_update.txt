@@ -34,14 +34,14 @@ practiced some examples about those ceil,floor round off values
 practiced about isalpha,isnumeric values
 practiced random ,isinstance ,bool values
 
---------------23-09-2026----------
+--------------23-09-2026------------------------------------------------------------------------------------
 learned about string functions.
 learned about replace,uppercase,lowercase
 learned about list,tupple
 practiced string operations.
 practiced index,slicing etc
 --------------------------------------------------------------------------------------------------------
--------------18-09-2026----------
+---------------------  18-09-2026-----------------------------------------------------------------------
 I have learned about different types of functions
 learned map, 
 filter,
@@ -50,7 +50,7 @@ remove,discard
 learned about for loop
 ifs,nested ifs,elif,else conditions
 ---------------------------------------------------------------------------------------------------------
---------------------17-09-2026----------
+--------------------17-09-2026--------------------------------------------------------------------------
 i have learned about data types of python
 int pre defined functions and comparision operations.
 float operations
@@ -59,7 +59,7 @@ string operations
 set operations and listened some utube videos about python basics.
 
 ------------------------------------------------------------------------------------------------------------
-----  11-09-2026----
+----  11-09-2026--------------------------------------------------------------------------------------------
 learned about web application and django framework.
 i have researched about rest APIS like GET,POST,PUT,PATCH,DELETE.
 i have learnt about git clone,GIT pull,add etc
