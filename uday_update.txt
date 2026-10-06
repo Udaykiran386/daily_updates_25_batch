@@ -1,3 +1,13 @@
+---- 06-10-2026 --------
+Daily Update :  Database Theory, Vercel Web Deployment & SQL Practice:
+Database Design & Integrity: Deepened understanding of Relational Database Normalization techniques (1NF, 2NF, 3NF, BCNF) to reduce data redundancy, alongside core ACID properties (Atomicity, Consistency, Isolation, Durability) for transaction management.
+
+Vercel Deployment & Debugging: Configured and deployed the Django web application on Vercel, troubleshooting hosting configurations, static asset delivery, and deployment runtime issues to achieve live publication.
+
+UI/UX & Feature Adjustments: Made iterative code refinements, UI adjustments, and functional enhancements based on project requirements.
+
+SQL Problem Solving: Practiced intermediate to advanced database queries on sql-practice.com to refine hands-on SQL manipulation and logic building.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 05-10-2026 --------
 Daily Update :  SQL Practice, Django Dashboards & Advanced Authentication System:
 SQL Problem Solving: Solved targeted query challenges on sql-practice.com to strengthen hands-on database filtering, join, and aggregation skills.
