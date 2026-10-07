@@ -1,3 +1,7 @@
+-------------------------------07-10-2026 --------------------------------------------------------
+revised sub queries in sql
+practiced some questions or tasks regarding sub queries in sql
+revised cross joins,anti left joins etc.
 -------------------------------06-10-2026 --------------------------------------------------------
 tested the web application and i had explored all about the web application.
 improved download option for the rejected interview company and hr contact list.
