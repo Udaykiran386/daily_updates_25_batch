@@ -1,3 +1,13 @@
+---- 07-10-2026 --------
+Daily Update :  SQL Advanced Querying & PySpark DataFrame Practice:
+SQL Joins & Set Operations: Practiced combining multi-table datasets using relational JOIN types along with set operators (UNION, UNION ALL, INTERSECT, EXCEPT).
+
+Subqueries & CTEs: Constructed modular database queries using nested subqueries (correlated and non-correlated) and Common Table Expressions (WITH clauses) for complex data logic.
+
+Window Functions & Aggregations: Applied analytical window functions (ROW_NUMBER(), RANK(), DENSE_RANK(), aggregate window frames) and standard grouping functions to calculate running totals, rankings, and partitioned metrics.
+
+PySpark DataFrame Operations: Re-examined PySpark DataFrame transformations and actions, practicing data filtering, column manipulation, and distributed data processing operations.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 06-10-2026 --------
 Daily Update :  Database Theory, Vercel Web Deployment & SQL Practice:
 Database Design & Integrity: Deepened understanding of Relational Database Normalization techniques (1NF, 2NF, 3NF, BCNF) to reduce data redundancy, alongside core ACID properties (Atomicity, Consistency, Isolation, Durability) for transaction management.
