@@ -1,3 +1,19 @@
+---09-10-26---
+# Today's update: I learned  window functions in SQL perform a calculation across a set of related rows without combining them into a single row. Unlike GROUP BY, it keeps each 
+individual row in the result, Window functions are commonly used for ranking, running totals, averages, and comparing rows.
+
+# some of the concepts in window functions RANK(), DENSE_RANK(), ROW_NUMBER(), NTILE(), LEAD(), LAG(), OVER(), SUM() understand the concepts how its work practiced different ways.
+
+# RANK(): Gives ties the same rank and skips the next rank.
+  DENSE_RANK(): Gives ties the same rank without skipping ranks.
+  ROW_NUMBER(): Assigns a unique number to every row.
+  NTILE(): window function that divides rows into a specified number of approximately equal groups (buckets) and assigns each row a bucket number.
+  LEAD():  window function that fetches a value from the next row without using a self-join.
+  LAG(): window function that retrieves a value from the previous row.
+  OVER(): defines the window of rows that a window function uses to perform its calculation.
+
+# I practiced different scenarios and understand the functionality of the each and every topic and tested  how its work and difference between each and every topic.
+
 ---05-10-26---
 #  The main purpose of this Django application is to track every student's interview journey from registration to final selection. Instead of maintaining student
  and interview information in Excel sheets or separate documents, Tweak Technologies can manage everything through a single web application.
