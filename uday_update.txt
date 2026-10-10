@@ -11,7 +11,7 @@ That is an exceptionally productive deep-dive across all three pillars of your d
 
 Would you like to run through a quick mock interview scenario or architecture challenge combining PySpark DAG optimization with advanced SQL tuning to test these concepts?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----- 07-10-2026 --------
+---- 09-10-2026 --------
 Daily Update :  SQL Advanced Querying & PySpark DataFrame Practice:
 SQL Joins & Set Operations: Practiced combining multi-table datasets using relational JOIN types along with set operators (UNION, UNION ALL, INTERSECT, EXCEPT).
 
