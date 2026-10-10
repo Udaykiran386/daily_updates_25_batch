@@ -1,3 +1,22 @@
+---10-10-26--
+# Today's update: I learned data structures concept in python Data structures in Python are used to store, organize, access, and manage multiple values efficiently.
+Python has four main built-in data structures:
+1. List []
+Stores multiple values, allows duplicates, and is mutable (changeable).
+Example: numbers = [10, 20, 30]
+2. Tuple ()
+Stores multiple values, allows duplicates, and is immutable (cannot be changed after creation).
+Example: colors = ("red", "blue", "red")
+3. Set {}
+Stores unique values and does not guarantee a fixed iteration order.
+Example: numbers = {10, 20, 30}
+4. Dictionary {key: value}
+Stores data as key-value pairs. Keys must be unique.
+Example: student = {"name": "Ravi", "age": 22}
+
+# I learned each and every data structures concept and inside methods like append, extend, remove, insert, pop, reverse, count, index, clear.
+
+
 ---09-10-26---
 # Today's update: I learned  window functions in SQL perform a calculation across a set of related rows without combining them into a single row. Unlike GROUP BY, it keeps each 
 individual row in the result, Window functions are commonly used for ranking, running totals, averages, and comparing rows.
