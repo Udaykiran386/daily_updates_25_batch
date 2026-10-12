@@ -1,3 +1,8 @@
+-------------------------------12-10-2026 --------------------------------------------------------
+practiced sql hard level questions in sql-practice.com
+practiced python basics from python cheat sheet
+practiced python basics in vs code.
+practiced loops,slicing,string modifications,list,tupple,dictionary etc
 -------------------------------07-10-2026 --------------------------------------------------------
 revised sub queries in sql
 practiced some questions or tasks regarding sub queries in sql
