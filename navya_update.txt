@@ -1,3 +1,10 @@
+------07-10-2026------
+Practiced SQL queries to improve understanding of data retrieval, filtering, and sorting.
+Practiced SQL subqueries and worked on different problems using subqueries.
+Worked on Python data structures, focusing on dictionaries and their key-value pairs.
+Practiced adding, accessing, updating, and removing elements from dictionaries.
+Solved some questions using dictionaries to improve Python problem-solving skills.
+
 ------06-10-2026------
 Modified the Student Management web application and worked on improving its existing features and functionality.
 Worked on the login page and understood the flow of user login and registration.
