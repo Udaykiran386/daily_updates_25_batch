@@ -1,3 +1,15 @@
+---- 12-10-2026 --------
+Daily Update :  Advanced Medallion Versioning, Schema Evolution & Python Environment Management:
+
+Medallion Pipeline Versioning & Schema Evolution: Upgraded the data architecture to store historical versions of updated data within the Bronze layer, while ensuring Silver and Gold layers maintain the latest version and dynamically handle schema evolution.
+
+Python Core & Collections: Reviewed core function design and data collections for efficient data handling.
+
+Exception Handling & File I/O: Practiced robust error management using try-except blocks and file handling operations.
+
+Virtual Environments & Packaging: Explored Python virtual environments (.venv) for dependency isolation and structured code using custom modules and packages.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 10-10-2026 --------
 Daily Update :  Advanced SQL Optimization, Comprehensive Python Revision & PySpark Core Architecture:
 
