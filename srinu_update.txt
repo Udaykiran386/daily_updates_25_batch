@@ -9,7 +9,7 @@
 
 EX:with open("student.txt", "w", encoding="utf-8") as file:
     file.write("Hello Python")
-* I learned string functions and inside operations on string like startswith, endswith, upper, lower, index, split, find, center these 
+# I learned string functions and inside operations on string like startswith, endswith, upper, lower, index, split, find, center these 
   are the concepts i learned today.
 
 ---12-10-26---
