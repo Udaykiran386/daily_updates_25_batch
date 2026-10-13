@@ -1,3 +1,14 @@
+---- 13-10-2026 --------
+Daily Update :  PySpark Fundamentals, Core Architecture & Execution Mechanics:
+
+Spark Architecture & Core Features: Documented Apache Spark's core engine, key capabilities, and architecture, highlighting why it is chosen over traditional MapReduce for large-scale distributed computing.
+
+PySpark Ecosystem & Utility: Evaluated PySpark as Python's high-level API interface for Spark, analyzing its usage and business advantages for scalable data engineering pipelines.
+
+Execution Engine & DAG Mechanics: Deepened understanding of PySpark's execution flow, detailing lazy evaluation, Directed Acyclic Graph (DAG) construction, physical execution planning, and PySpark job triggers.
+
+DataFrame Transformations & Column Operations: Explored PySpark transformations, focusing on column-level manipulations, expressions, filtering, and schema transformations for data processing workflows.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 12-10-2026 --------
 Daily Update :  Advanced Medallion Versioning, Schema Evolution & Python Environment Management:
 
