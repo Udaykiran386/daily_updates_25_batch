@@ -1,3 +1,14 @@
+---- 14-10-2026 --------
+Daily Update :  Advanced SQL Querying, Python Logical Problem Solving & Modern Data Architectures:
+
+Advanced SQL Querying: Practiced complex query patterns using window functions, subqueries, and Common Table Expressions (CTEs) to solve multi-step data retrieval problems.
+
+SQL Mock Interview: Completed an interactive SQL mock interview to assess and refine technical query-building and database design communication.
+
+Python Logical Problem Solving: Built custom logic solutions across core programming topics to strengthen algorithmic and problem-solving skills.
+
+Data Storage Architectures: Explored and distinguished between traditional Data Lakes, Data Warehouses, modern Data Lakehouses, and Delta Lake storage formats.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 13-10-2026 --------
 Daily Update :  PySpark Fundamentals, Core Architecture & Execution Mechanics:
 
