@@ -1,3 +1,12 @@
+---- 15-10-2026 --------
+Daily Update :  Advanced SQL Querying, Python Memory Management & PySpark Transformations:
+
+Advanced SQL Querying: Practiced complex database query patterns focusing on window functions, subqueries, and Common Table Expressions (CTEs) for multi-step data processing.
+
+Python Memory Management & Garbage Collection: Explored Python's underlying memory architecture, object allocation mechanisms, reference counting, and cyclic garbage collection.
+
+PySpark Data Transformations: Practiced distributed data transformations and scalable processing operations within PySpark pipelines.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 14-10-2026 --------
 Daily Update :  Advanced SQL Querying, Python Logical Problem Solving & Modern Data Architectures:
 
