@@ -1,3 +1,8 @@
+------------------------------- 16-10-2026 -----------------------------------------------------
+practiced functions
+practiced list methods
+list slicing,index,append,extend etc
+
 -------------------------------12-10-2026 --------------------------------------------------------
 practiced sql hard level questions in sql-practice.com
 practiced python basics from python cheat sheet
