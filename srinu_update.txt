@@ -1,3 +1,17 @@
+---29-10-26---
+1.Today i learned Exception handling concept in python used to handle runtime error without stopping  the entire program unexceptedly.
+
+2.Exception handling contain maily four blocks is their 1.try – Contains code that may cause an exception, 2.except – Handles the exception
+3.else – Executes when no exception occurs, 4.finally – Executes whether an exception occurs or not.
+
+3.I practiced some of the programs using try , except, else, finally and understand how its work apart form their are some of the importent concepts 
+in exception handling like zerodivisionerror, valueerror keyerror ect.
+
+4.After i practiced some of the importent  questions based on datatypes, strings, operators, conditional statements and i understand each and every logic 
+of the program.
+
+5.I learned AWS stands for Amazon Web Services. It is a cloud computing platform that provides services such as servers, storage, databases, networking, 
+security, and application deployment over the internet and learn some of the services EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, RDS, SNS, SQS ect.
 ---12-10-26---
 # Today i learned Exception handling concept in python used to handle runtime error without stopping  the entire program unexceptedly.
 
