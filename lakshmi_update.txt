@@ -1,4 +1,9 @@
-
+------------------------------ 29-10-2026 ----------------------------------------------------
+learned oops concept
+practiced polymorphism,inheritance
+practiced encapsulation
+practiced creating class and objects and their functionality.
+practiced creating objects and different type of objects.
 ------------------------------ 20-10-2026 ----------------------------------------------------
 practiced dictionary functions like adding,deleting and modifying
 practiced packing and unpacking concept in tupples
