@@ -1,3 +1,12 @@
+---- 31-10-2026 --------
+Daily Update :  Project Development, Corrupt Data Handling & Parallel Topic Practice:
+
+Project Development (spec-shopsight-sales-pipeline): Continued building and refining the sales pipeline repository, implementing robust data flows and architecture structures.
+
+Corrupt Data & Fault Tolerance: Practiced handling malformed and corrupted data across different file formats, managing parsing errors, bad records logging, and schema enforcement strategies.
+
+Parallel Practice: Continued working through remaining topics and problem sets across core data engineering and programming concepts.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 15-10-2026 --------
 Daily Update :  Advanced SQL Querying, Python Memory Management & PySpark Transformations:
 
