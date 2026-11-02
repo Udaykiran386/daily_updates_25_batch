@@ -1,3 +1,16 @@
+---02-11-26---
+1. Today i worked one of the web application project with API and i used neon database this is cloud DB  to connect web application to cloud DB.
+
+2. Main aim of this project is enter the student and courses data into web application that data will stored into Neon database connect throught API's.
+
+3. An API (Application Programming Interface) allows two software applications to communicate with each other and exchange data.
+
+4. To build web appliction using front end HTML, CSS, JAVASCRIPT backend python django , database Neon cloud storage and to communicate front end 
+to backend used REST API it is used to send the request / response.
+
+5. Finally  debug the code and uderstand the functionality and features of web appliction and database and insert the data into web application and checked into 
+Neon database while storing data are not, and understand the python code how it's working.
+
 ---30-10-26---
 1. Today's update: I learned some of the  topics like aggregate function, group by, having functions in SQL.
 
