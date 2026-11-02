@@ -1,3 +1,12 @@
+---- 02-11-2026 --------
+Daily Update : Third-Party API Data Ingestion, Messy Data Generation & Pipeline Scenarios:
+
+API Integration & Ingestion: Explored 3rd-party API operations and data fetching mechanisms (such as weather and report services), practicing RESTful data retrieval using mock and public practice APIs.
+
+Complex Data Generation & Edge Cases: Generated fully raw and messy datasets simulating real-world anomalies, schema drifts, and edge cases to test parsing resilience across varied scenarios.
+
+ETL & Pipeline Job Planning: Initiated design and scenario planning for upcoming ETL workflows and automated job execution for processing raw external API payloads.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 31-10-2026 --------
 Daily Update :  Project Development, Corrupt Data Handling & Parallel Topic Practice:
 
