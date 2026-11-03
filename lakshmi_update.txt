@@ -1,3 +1,9 @@
+------------------------------03-11-2026 -----------------------------------------------------
+done student management portal task using cloud as neon db.
+practiced exception handling and file handling.
+practiced methodoverride and overloading
+practiced serialised and deserialised in python
+
 ------------------------------ 29-10-2026 ----------------------------------------------------
 learned oops concept
 practiced polymorphism,inheritance
