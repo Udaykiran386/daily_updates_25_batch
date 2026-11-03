@@ -1,3 +1,18 @@
+---03-11-26---
+1. Today i worked one of the project DataFlow / ShipIt DevOps Platform overview of the project Imagine an organization receives customer orders in a csv file.
+   The appliction should:
+   A)Read the orders from a csv files.
+   B)validate the order records.
+   c)seperate valid and invalid records.
+   D)store valid records in SQLITE.
+   E)store invalid records in a quarantine table.
+   F)generate a JSON execution report.
+
+2. I understand the concept and clone the code into vs code and run the project data will display into SQLITE check validated  is comming or not and
+understand remaining part  of functionallity working on it.
+
+
+
 ---02-11-26---
 1. Today i worked one of the web application project with API and i used neon database this is cloud DB  to connect web application to cloud DB.
 
