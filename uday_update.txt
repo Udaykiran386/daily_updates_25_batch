@@ -1,3 +1,14 @@
+---- 03-11-2026 --------
+Daily Update :  Comprehensive Data Transformations, Cleaning Strategies & Pandas vs. PySpark Performance Benchmarking:
+
+Data Transformations & Shaping: Implemented diverse data transformation techniques and explored various structural reshaping methods to restructure raw datasets.
+
+Data Cleaning & Anomaly Handling: Built robust data cleaning workflows to handle missing values, malformed records, and format inconsistencies across different datasets.
+
+Pandas vs. PySpark Benchmarking: Compared data cleaning and transformation methodologies between in-memory Pandas dataframes and distributed PySpark engines, analyzing execution behavior and performance differences.
+
+Comparing Pandas and PySpark side-by-side for data cleaning and transformations is one of the best ways to truly grasp the differences between single-node in-memory processing and distributed lazy evaluation!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 02-11-2026 --------
 Daily Update : Third-Party API Data Ingestion, Messy Data Generation & Pipeline Scenarios:
 
