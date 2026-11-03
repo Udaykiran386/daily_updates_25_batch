@@ -1,3 +1,19 @@
+---03-11-26---
+1. Today i worked one of the project DataFlow / ShipIt DevOps Platform overview of the project Imagine an organization receives customer orders in a csv file.
+   The appliction should:
+   A)Read the orders from a csv files.
+   B)validate the order records.
+   c)seperate valid and invalid records.
+   D)store valid records in SQLITE.
+   E)store invalid records in a quarantine table.
+   F)generate a JSON execution report.
+
+2. I understand the concept and clone the code into vs code and run the project data will display into SQLITE check validated  is comming or not and
+understand remaining part  of functionallity working on it.
+
+
+
+---02-11-2026---
 ---02-11-26---
 1. Today i worked one of the web application project with API and i used neon database this is cloud DB  to connect web application to cloud DB.
 
@@ -10,6 +26,20 @@ to backend used REST API it is used to send the request / response.
 
 5. Finally  debug the code and uderstand the functionality and features of web appliction and database and insert the data into web application and checked into 
 Neon database while storing data are not, and understand the python code how it's working.
+
+---31-10-26---
+1. Today i learned loop and loop control concept in python used to  repeatedly as long as a condition is satisfied or for each item in a sequence.
+
+2. Loop and loop control contain mainly for 1.Loop- Used when you want to repeat something over a sequence or a specific range, 2-While Loop-Used 
+when you want to repeat code while a condition is True.
+
+3. Loop control-Loop control statements are used to change the normal execution of a loop contain mainly,
+ 1.break     Completely stops the loop           
+ 2.continue Skips the current iteration         
+ 3.pass     Does nothing; acts as a placeholder 
+
+4. After i practiced some of the importent questions concepts like Tuples, Dictionaries, Lists and looping conditions i understand the logical part
+how the conditions will work.
 
 ---30-10-26---
 1. Today's update: I learned some of the  topics like aggregate function, group by, having functions in SQL.
@@ -38,6 +68,22 @@ of the program.
 
 5.I learned AWS stands for Amazon Web Services. It is a cloud computing platform that provides services such as servers, storage, databases, networking, 
 security, and application deployment over the internet and learn some of the services EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, RDS, SNS, SQS ect.
+
+---13-10-26---
+# Today i learned File handling concepts in python to create, read, write, append, & create new file, update and manage files.
+
+  syntax open file: open("filename", "mode")
+
+# I worte the file handling concept codes into visual studio and understand how its work and applied different modes(r,w,a)
+  In file handling concept i learned another topic encoding it working with text files, UTF-8 is a common choice i understand encoding each and 
+  every language some code will run on the backend that is also called encoding.
+
+   EX:with open("student.txt", "w", encoding="utf-8") as file:
+   file.write("Hello Python")
+   
+# I learned string functions and inside operations on string like startswith, endswith, upper, lower, index, split, find, center these 
+  are the concepts i learned today.
+
 ---12-10-26---
 # Today i learned Exception handling concept in python used to handle runtime error without stopping  the entire program unexceptedly.
 
@@ -123,6 +169,7 @@ different scenarios based operations i performed.
 
 
 # Using a having function employees table find the departments of average salary who is greaterthan 60000 like i performed min and max ,count functions.
+
 
 ---01-10-26---
 # Today's update: I learned some of the topics like select, where, order by, limit/top, distinct, aggregate function in SQL.
