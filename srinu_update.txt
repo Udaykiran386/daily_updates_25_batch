@@ -1,3 +1,13 @@
+---04-11-26---
+1. Today i worked one of the project Dataflow/ shipit devops platform understand the project and clone into VS code and run.
+
+2. I have lot of conflix occurs and i debug the code after resolved every bug the output data will display into data base like.
+   
+3. In the csv raw file customer orders  total 20 records  is their so valid records are 18 the will displayed into orders table remaining 2 records 
+will display into quarantined table  up to this stage i completed.
+
+
+4. Remaining part of this project docker part and Suppose a developer modifies the Python application and pushes the code to GitHub. 
 ---03-11-26---
 1. Today i worked one of the project DataFlow / ShipIt DevOps Platform overview of the project Imagine an organization receives customer orders in a csv file.
    The appliction should:
