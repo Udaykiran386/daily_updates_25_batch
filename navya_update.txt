@@ -1,3 +1,90 @@
+-----04-11-2026------
+Learned exception handling in Python and explored different types of exceptions.
+Worked on polymorphism concepts in Python.
+Practiced method overriding and understood its implementation.
+Learned about method overloading and its functionality in Python.
+Started learning Docker and explored its basic concepts.
+
+-----03-11-2026------
+Worked on OOP concepts in Python, focusing on inheritance.
+Worked with different types of inheritance: single, multiple, multilevel, hierarchical, and hybrid.
+Explored the functionality and implementation of different inheritance types.
+Worked on file handling in Python, including reading, writing, and appending files.
+Started learning Pandas basics, including Series and DataFrames.
+Explored creating Pandas DataFrames and basic data operations.
+
+------02-11-2026------
+Learned about dbt Core (Data Build Tool Core), an open-source tool used for transforming raw data into clean, structured, and analysis-ready data within a database or data warehouse.
+Understood how dbt Core uses SQL queries to perform data transformations and create reusable data models.
+Learned about different data modeling concepts, including staging models and analytical models, and how they organize data for reporting and analysis.
+Understood ETL and ELT concepts and how data is extracted, loaded, and transformed during data engineering workflows.
+Learned about data quality testing in dbt Core and how tests help identify missing values, duplicate records, and invalid data.
+Explored how PostgreSQL, Python, and Docker Compose can be used together in a data engineering project to manage databases, execute transformations, and run the development environment.
+
+------31-10-2026------
+Worked on polymorphism in Python and understood how the same method can behave differently in different situations.
+Practiced lambda functions and understood how to write short anonymous functions.
+Worked with the map() function to apply operations to elements in an iterable.
+Practiced filter() and reduce() functions to filter elements and perform calculations on collections.
+Started working on a web application and explored its basic structure and functionality.
+
+------30-10-2026------
+Practiced Object-Oriented Programming (OOP) concepts, including classes, objects, attributes, and methods.
+ Worked with class variables, instance variables, and the self keyword to understand how data is stored and accessed within classes.
+Practiced inheritance and method overriding to understand code reusability and how methods can be redefined in child classes.
+Worked on encapsulation and abstraction, understanding how data is protected and how implementation details can be hidden.
+Practiced polymorphism and solved different coding questions to understand how the same method or operation can behave differently in different situations.
+
+------29-10-2026------
+Learned about Python's filter(), map(), and reduce() functions and understood how they are used to process and transform data.
+Practiced using map() to apply a function to each element in a collection.
+Practiced using filter() to select elements based on specific conditions and reduce() to perform cumulative operations.
+Learned about AWS VPC and Amazon RDS, understanding network isolation and managed relational database services.
+Learned about AWS DMS, Glue Workflows, and Redshift, understanding how data can be migrated, processed, orchestrated, and stored for analytics.
+
+------28-10-2026------
+Practiced writing Python programs to generate the Fibonacci series.
+Implemented factorial programs using different approaches.
+Learned about recursion and practiced solving problems using recursive functions.
+Understood special variables in Python, including the __name__ variable.
+Practiced using if __name__ == "__main__" to control the execution of Python programs.
+
+------27-10-2026------
+Practiced printing different patterns in Python using nested loops.
+Understood the working of for-else loops and when the else block gets executed.
+Practiced using the global keyword to access and modify global variables inside functions.
+Worked on passing lists as arguments to functions and performing operations on list elements.
+Solved Python programs using loops, functions, and conditional statements to improve problem-solving skills.
+
+
+------16-10-2026------
+Learned about SQL window functions and their importance in performing calculations across related rows.
+Worked with ROW_NUMBER(), RANK(), and DENSE_RANK() to assign rankings to records.
+Practiced aggregate window functions such as SUM(), AVG(), and COUNT() with the OVER() clause.
+Learned and worked with LEAD() and LAG() functions to compare current and previous or next row values.
+Solved SQL problems using different window functions to improve understanding of ranking, partitioning, and data analysis.
+
+------15-10-2026------
+Solved SQL problems using the ROUND() function to round numeric values to the required decimal places.
+Practiced set operators such as UNION, UNION ALL, INTERSECT, and EXCEPT to combine and compare results from multiple queries.
+Solved SQL queries using subqueries to retrieve data based on the results of another query.
+Worked on nested subqueries and used them in different SQL conditions.
+Solved practical SQL problems combining set operators, subqueries, and other SQL statements to improve query-writing skills.
+
+------14-10-2026------
+1. Solved SQL problems using the GROUP BY clause to group records based on common values.
+2. Practiced the HAVING clause to filter grouped data based on aggregate conditions.
+3. Learned about the SQL query execution order and understood how different SQL clauses are executed.
+4. Solved SQL problems using CASE statements to apply conditions and return different results.
+5. Worked on combining GROUP BY, HAVING, and CASE statements to solve practical SQL queries.
+
+------13-10-2026------
+Worked on SQL queries, starting with basic SELECT statements to retrieve data from tables.
+Practiced using WHERE conditions to filter records based on specific requirements.
+Worked with ORDER BY to sort records in ascending and descending order.
+Practiced aggregate functions such as SUM(), AVG(), COUNT(), MIN(), and MAX().
+Solved SQL problems using different types of joins, including INNER JOIN, LEFT JOIN and RIGHT JOIN to retrieve data from multiple tables.
+
 ------07-10-2026------
 Practiced SQL queries to improve understanding of data retrieval, filtering, and sorting.
 Practiced SQL subqueries and worked on different problems using subqueries.
