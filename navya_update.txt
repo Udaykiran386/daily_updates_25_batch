@@ -1,3 +1,10 @@
+-----05-11-2026------
+Worked on the Student Management Web Application project, focusing on backend development.
+Developed REST API endpoints to manage student records.
+Implemented POST and GET methods to insert and retrieve student details.
+Implemented PUT and DELETE methods to update and delete student records.
+Integrated the backend application with Neon DB (PostgreSQL) for storing and managing student data.
+
 -----04-11-2026------
 Learned exception handling in Python and explored different types of exceptions.
 Worked on polymorphism concepts in Python.
