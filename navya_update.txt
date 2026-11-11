@@ -1,3 +1,18 @@
+------10-11-2026------
+Worked on data cleaning techniques in Pandas using dropna() and fillna().
+Used astype() to change column data types.
+Worked with the rename() function to rename DataFrame columns.
+Started exploring data transformation techniques in Pandas.
+Worked on Python file handling concepts, including reading and writing files.
+
+------06-11-2026------
+ Worked on debugging and resolving errors in the Student Management Web Application.
+ Identified and fixed issues in the backend functionality.
+ Worked on creating Pandas DataFrames.
+ Explored different ways to create and manage DataFrames.
+ Practiced basic DataFrame operations and data manipulation.
+ Practiced simple filtering operations in Pandas to retrieve specific data.
+
 -----05-11-2026------
 Worked on the Student Management Web Application project, focusing on backend development.
 Developed REST API endpoints to manage student records.
