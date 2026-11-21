@@ -1,3 +1,17 @@
+Daily Update – 21/11/2026
+
+Topic: PySpark Pipeline Practice and AIOps Project Research
+
+Practiced PySpark concepts and worked on building data pipelines.
+
+Started implementing pipeline steps such as data ingestion, transformation, validation, and output handling.
+
+Worked on the project Intelligent Data Migration Monitoring & Anomaly Detection Using AIOps.
+
+Researched how AIOps can monitor data migration, detect anomalies, and improve data quality.
+
+Identified the required components, workflow, and possible use of machine learning for anomaly detection in the project.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---- 03-11-2026 --------
 Daily Update :  Comprehensive Data Transformations, Cleaning Strategies & Pandas vs. PySpark Performance Benchmarking:
 
