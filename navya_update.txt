@@ -1,3 +1,43 @@
+------25-11-2026------
+Reviewed Python functions, including function definitions, parameters, arguments, and return statements.
+Worked on iterators and generators, understanding how they work and how they handle values.
+Explored decorators and their functionality in Python.
+Practiced different pattern-printing questions using loops and nested loops.
+Explored exception handling in Python.
+
+
+------24-11-2026------
+Worked on Python file handling and explored different methods of opening, reading, writing, and managing files.
+Explored the four major file modes: r (read), w (write), a (append), and x (create), and understood their functionality.
+Worked with r+ and w+ modes to perform both reading and writing operations on files.
+Practiced writing data into files, reading existing content, and appending new data without overwriting previous content.
+Explored file pointer operations using seek() and tell() to navigate and track positions within a file.
+Worked with different file handling operations to understand how file modes affect existing data and file creation.
+
+------11-11-2026------
+Learned Pandas data transformation techniques and practiced modifying DataFrames.
+Practiced grouping data using groupby() in Pandas.
+Learned aggregation functions such as sum(), mean(), count(), min(), and max().
+Practiced grouping and aggregating data to generate summaries.
+Learned how to store DataFrame data into CSV and Excel files.
+ Started learning Docker and explored how to create a Docker image using a Dockerfile.
+
+
+------10-11-2026------
+Worked on data cleaning techniques in Pandas using dropna() and fillna().
+Used astype() to change column data types.
+Worked with the rename() function to rename DataFrame columns.
+Started exploring data transformation techniques in Pandas.
+Worked on Python file handling concepts, including reading and writing files.
+
+------06-11-2026------
+ Worked on debugging and resolving errors in the Student Management Web Application.
+ Identified and fixed issues in the backend functionality.
+ Worked on creating Pandas DataFrames.
+ Explored different ways to create and manage DataFrames.
+ Practiced basic DataFrame operations and data manipulation.
+ Practiced simple filtering operations in Pandas to retrieve specific data.
+
 -----05-11-2026------
 Worked on the Student Management Web Application project, focusing on backend development.
 Developed REST API endpoints to manage student records.
