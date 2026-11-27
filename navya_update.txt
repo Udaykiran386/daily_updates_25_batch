@@ -1,3 +1,9 @@
+------26-11-2026------
+Worked on OOP concepts in Python and practiced different problem-solving questions.
+Worked on class and object concepts, inheritance, polymorphism, and related OOP functionalities.
+Revised Python functions, including function definitions, parameters, arguments, and return statements.
+Explored lambda functions and understood how to use them for writing simple anonymous functions
+
 ------25-11-2026------
 Reviewed Python functions, including function definitions, parameters, arguments, and return statements.
 Worked on iterators and generators, understanding how they work and how they handle values.
